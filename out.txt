@@ -1,0 +1,161 @@
+Starting training at time 22:47:53.247000 with 16 inputs, 10 ouputs, [0] hidden layers, size of training set 7494, and size of test set 3498
+Finished after 200 iterations at time 22:49:00.113000 with training error 0.089959 and weight change 0.004498
+Feed Forward Test correctly classified 0, incorrectly classified 3498, test percent error  0.000000
+
+Starting training at time 22:49:00.242000 with 16 inputs, 10 ouputs, [0] hidden layers, size of training set 7494, and size of test set 3498
+Finished after 200 iterations at time 22:50:04.314000 with training error 0.089879 and weight change 0.004494
+Feed Forward Test correctly classified 0, incorrectly classified 3498, test percent error  0.000000
+
+Starting training at time 22:50:04.408000 with 16 inputs, 10 ouputs, [0] hidden layers, size of training set 7494, and size of test set 3498
+Finished after 200 iterations at time 22:51:12.006000 with training error 0.090105 and weight change 0.004505
+Feed Forward Test correctly classified 364, incorrectly classified 3134, test percent error  0.104059
+
+Starting training at time 22:51:12.099000 with 16 inputs, 10 ouputs, [0] hidden layers, size of training set 7494, and size of test set 3498
+Finished after 200 iterations at time 22:52:19.805000 with training error 0.089959 and weight change 0.004498
+Feed Forward Test correctly classified 0, incorrectly classified 3498, test percent error  0.000000
+
+Starting training at time 22:52:19.887000 with 16 inputs, 10 ouputs, [0] hidden layers, size of training set 7494, and size of test set 3498
+Finished after 200 iterations at time 22:53:26.711000 with training error 0.089905 and weight change 0.004495
+Feed Forward Test correctly classified 364, incorrectly classified 3134, test percent error  0.104059
+
+Starting training at time 22:53:26.839000 with 16 inputs, 10 ouputs, [5] hidden layers, size of training set 7494, and size of test set 3498
+Finished after 200 iterations at time 22:55:54.915000 with training error 0.031879 and weight change 0.000297
+Feed Forward Test correctly classified 1000, incorrectly classified 2498, test percent error  0.285878
+
+Starting training at time 22:55:55.244000 with 16 inputs, 10 ouputs, [5] hidden layers, size of training set 7494, and size of test set 3498
+Finished after 200 iterations at time 22:58:38.901000 with training error 0.031378 and weight change 0.000266
+Feed Forward Test correctly classified 1914, incorrectly classified 1584, test percent error  0.547170
+
+Starting training at time 22:58:39.114000 with 16 inputs, 10 ouputs, [5] hidden layers, size of training set 7494, and size of test set 3498
+Finished after 200 iterations at time 23:01:18.584000 with training error 0.029477 and weight change 0.000291
+Feed Forward Test correctly classified 1388, incorrectly classified 2110, test percent error  0.396798
+
+Starting training at time 23:01:18.821000 with 16 inputs, 10 ouputs, [5] hidden layers, size of training set 7494, and size of test set 3498
+Finished after 200 iterations at time 23:03:46.010000 with training error 0.027242 and weight change 0.000324
+Feed Forward Test correctly classified 2117, incorrectly classified 1381, test percent error  0.605203
+
+Starting training at time 23:03:46.182000 with 16 inputs, 10 ouputs, [5] hidden layers, size of training set 7494, and size of test set 3498
+Finished after 200 iterations at time 23:06:03.987000 with training error 0.029530 and weight change 0.000331
+Feed Forward Test correctly classified 1761, incorrectly classified 1737, test percent error  0.503431
+
+Starting training at time 23:06:04.209000 with 16 inputs, 10 ouputs, [10] hidden layers, size of training set 7494, and size of test set 3498
+Finished after 200 iterations at time 23:09:21.400000 with training error 0.010622 and weight change 0.000103
+Feed Forward Test correctly classified 2843, incorrectly classified 655, test percent error  0.812750
+
+Starting training at time 23:09:21.693000 with 16 inputs, 10 ouputs, [10] hidden layers, size of training set 7494, and size of test set 3498
+Finished after 200 iterations at time 23:12:42.991000 with training error 0.010942 and weight change 0.000087
+Feed Forward Test correctly classified 2900, incorrectly classified 598, test percent error  0.829045
+
+Starting training at time 23:12:43.221000 with 16 inputs, 10 ouputs, [10] hidden layers, size of training set 7494, and size of test set 3498
+Finished after 200 iterations at time 23:16:05.587000 with training error 0.014572 and weight change 0.000123
+Feed Forward Test correctly classified 2581, incorrectly classified 917, test percent error  0.737850
+
+Starting training at time 23:16:05.843000 with 16 inputs, 10 ouputs, [10] hidden layers, size of training set 7494, and size of test set 3498
+Finished after 200 iterations at time 23:19:30.448000 with training error 0.013084 and weight change 0.000100
+Feed Forward Test correctly classified 2637, incorrectly classified 861, test percent error  0.753859
+
+Starting training at time 23:19:30.675000 with 16 inputs, 10 ouputs, [10] hidden layers, size of training set 7494, and size of test set 3498
+Finished after 200 iterations at time 23:22:48.247000 with training error 0.012163 and weight change 0.000095
+Feed Forward Test correctly classified 2789, incorrectly classified 709, test percent error  0.797313
+
+Starting training at time 23:22:48.480000 with 16 inputs, 10 ouputs, [15] hidden layers, size of training set 7494, and size of test set 3498
+Finished after 115 iterations at time 23:25:13.556000 with training error 0.010188 and weight change 0.000080
+Feed Forward Test correctly classified 2937, incorrectly classified 561, test percent error  0.839623
+
+Starting training at time 23:25:13.808000 with 16 inputs, 10 ouputs, [15] hidden layers, size of training set 7494, and size of test set 3498
+Finished after 184 iterations at time 23:28:20.872000 with training error 0.009081 and weight change 0.000079
+Feed Forward Test correctly classified 2797, incorrectly classified 701, test percent error  0.799600
+
+Starting training at time 23:28:21.172000 with 16 inputs, 10 ouputs, [15] hidden layers, size of training set 7494, and size of test set 3498
+Finished after 113 iterations at time 23:30:28.482000 with training error 0.009855 and weight change 0.000079
+Feed Forward Test correctly classified 2880, incorrectly classified 618, test percent error  0.823328
+
+Starting training at time 23:30:28.724000 with 16 inputs, 10 ouputs, [15] hidden layers, size of training set 7494, and size of test set 3498
+Finished after 97 iterations at time 23:32:11.311000 with training error 0.010762 and weight change 0.000080
+Feed Forward Test correctly classified 2834, incorrectly classified 664, test percent error  0.810177
+
+Starting training at time 23:32:11.555000 with 16 inputs, 10 ouputs, [15] hidden layers, size of training set 7494, and size of test set 3498
+Finished after 110 iterations at time 23:34:04.289000 with training error 0.009848 and weight change 0.000080
+Feed Forward Test correctly classified 3004, incorrectly classified 494, test percent error  0.858776
+
+Starting training at time 23:34:04.535000 with 16 inputs, 10 ouputs, [20] hidden layers, size of training set 7494, and size of test set 3498
+Finished after 60 iterations at time 23:35:17.431000 with training error 0.009081 and weight change 0.000080
+Feed Forward Test correctly classified 2811, incorrectly classified 687, test percent error  0.803602
+
+Starting training at time 23:35:17.769000 with 16 inputs, 10 ouputs, [20] hidden layers, size of training set 7494, and size of test set 3498
+Finished after 46 iterations at time 23:36:14.252000 with training error 0.011589 and weight change 0.000078
+Feed Forward Test correctly classified 2844, incorrectly classified 654, test percent error  0.813036
+
+Starting training at time 23:36:14.554000 with 16 inputs, 10 ouputs, [20] hidden layers, size of training set 7494, and size of test set 3498
+Finished after 64 iterations at time 23:37:39.056000 with training error 0.009287 and weight change 0.000079
+Feed Forward Test correctly classified 2641, incorrectly classified 857, test percent error  0.755003
+
+Starting training at time 23:37:39.349000 with 16 inputs, 10 ouputs, [20] hidden layers, size of training set 7494, and size of test set 3498
+Finished after 55 iterations at time 23:38:45.795000 with training error 0.009948 and weight change 0.000077
+Feed Forward Test correctly classified 2832, incorrectly classified 666, test percent error  0.809605
+
+Starting training at time 23:38:46.095000 with 16 inputs, 10 ouputs, [20] hidden layers, size of training set 7494, and size of test set 3498
+Finished after 76 iterations at time 23:40:35.476000 with training error 0.009868 and weight change 0.000079
+Feed Forward Test correctly classified 2691, incorrectly classified 807, test percent error  0.769297
+
+Starting training at time 23:40:35.800000 with 16 inputs, 10 ouputs, [25] hidden layers, size of training set 7494, and size of test set 3498
+Finished after 21 iterations at time 23:41:06.642000 with training error 0.011930 and weight change 0.000080
+Feed Forward Test correctly classified 2555, incorrectly classified 943, test percent error  0.730417
+
+Starting training at time 23:41:06.997000 with 16 inputs, 10 ouputs, [25] hidden layers, size of training set 7494, and size of test set 3498
+Finished after 47 iterations at time 23:42:16.709000 with training error 0.009895 and weight change 0.000077
+Feed Forward Test correctly classified 2724, incorrectly classified 774, test percent error  0.778731
+
+Starting training at time 23:42:17.078000 with 16 inputs, 10 ouputs, [25] hidden layers, size of training set 7494, and size of test set 3498
+Finished after 38 iterations at time 23:43:13.578000 with training error 0.009521 and weight change 0.000079
+Feed Forward Test correctly classified 2893, incorrectly classified 605, test percent error  0.827044
+
+Starting training at time 23:43:13.932000 with 16 inputs, 10 ouputs, [25] hidden layers, size of training set 7494, and size of test set 3498
+Finished after 35 iterations at time 23:44:05.283000 with training error 0.010255 and weight change 0.000079
+Feed Forward Test correctly classified 2860, incorrectly classified 638, test percent error  0.817610
+
+Starting training at time 23:44:05.637000 with 16 inputs, 10 ouputs, [25] hidden layers, size of training set 7494, and size of test set 3498
+Finished after 29 iterations at time 23:44:48.525000 with training error 0.010408 and weight change 0.000079
+Feed Forward Test correctly classified 2686, incorrectly classified 812, test percent error  0.767867
+
+Starting training at time 23:44:48.884000 with 16 inputs, 10 ouputs, [30] hidden layers, size of training set 7494, and size of test set 3498
+Finished after 23 iterations at time 23:45:27.885000 with training error 0.011002 and weight change 0.000079
+Feed Forward Test correctly classified 2859, incorrectly classified 639, test percent error  0.817324
+
+Starting training at time 23:45:28.286000 with 16 inputs, 10 ouputs, [30] hidden layers, size of training set 7494, and size of test set 3498
+Finished after 23 iterations at time 23:46:06.831000 with training error 0.011983 and weight change 0.000079
+Feed Forward Test correctly classified 2733, incorrectly classified 765, test percent error  0.781304
+
+Starting training at time 23:46:07.272000 with 16 inputs, 10 ouputs, [30] hidden layers, size of training set 7494, and size of test set 3498
+Finished after 34 iterations at time 23:47:04.120000 with training error 0.009361 and weight change 0.000078
+Feed Forward Test correctly classified 2806, incorrectly classified 692, test percent error  0.802173
+
+Starting training at time 23:47:04.522000 with 16 inputs, 10 ouputs, [30] hidden layers, size of training set 7494, and size of test set 3498
+Finished after 12 iterations at time 23:47:24.753000 with training error 0.011089 and weight change 0.000079
+Feed Forward Test correctly classified 2821, incorrectly classified 677, test percent error  0.806461
+
+Starting training at time 23:47:25.170000 with 16 inputs, 10 ouputs, [30] hidden layers, size of training set 7494, and size of test set 3498
+Finished after 33 iterations at time 23:48:23.892000 with training error 0.010021 and weight change 0.000076
+Feed Forward Test correctly classified 2873, incorrectly classified 625, test percent error  0.821326
+
+Starting training at time 23:48:24.939000 with 16 inputs, 10 ouputs, [35] hidden layers, size of training set 7494, and size of test set 3498
+Finished after 20 iterations at time 23:50:01.466000 with training error 0.009227 and weight change 0.000073
+Feed Forward Test correctly classified 2900, incorrectly classified 598, test percent error  0.829045
+
+Starting training at time 23:50:02.638000 with 16 inputs, 10 ouputs, [35] hidden layers, size of training set 7494, and size of test set 3498
+Finished after 17 iterations at time 23:51:25.659000 with training error 0.010562 and weight change 0.000080
+Feed Forward Test correctly classified 2662, incorrectly classified 836, test percent error  0.761006
+
+Starting training at time 23:51:27.018000 with 16 inputs, 10 ouputs, [35] hidden layers, size of training set 7494, and size of test set 3498
+Finished after 12 iterations at time 23:52:25.230000 with training error 0.010742 and weight change 0.000077
+Feed Forward Test correctly classified 2869, incorrectly classified 629, test percent error  0.820183
+
+Starting training at time 23:52:26.465000 with 16 inputs, 10 ouputs, [35] hidden layers, size of training set 7494, and size of test set 3498
+Finished after 24 iterations at time 23:54:21.756000 with training error 0.009214 and weight change 0.000079
+Feed Forward Test correctly classified 2857, incorrectly classified 641, test percent error  0.816752
+
+Starting training at time 23:54:22.881000 with 16 inputs, 10 ouputs, [35] hidden layers, size of training set 7494, and size of test set 3498
+Finished after 19 iterations at time 23:55:55.338000 with training error 0.008800 and weight change 0.000076
+Feed Forward Test correctly classified 2888, incorrectly classified 610, test percent error  0.825615
+
+~~~~~~~~~~~~~~~~~~~~DATA~~~~~

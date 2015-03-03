@@ -1,0 +1,12 @@
+Pen Data
+~~~~~~~~~~~~~~~~~~~
+Max: 0.85534591195
+Average: 0.802172670097
+Standard Deviation: 0.0328612590632
+
+
+Car Data
+~~~~~~~~~~~~~~~~~~~
+Max: 0.842195540309
+Average: 0.788736420812
+Standard Deviation: 0.0389150779325
